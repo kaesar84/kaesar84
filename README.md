@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+https://kaesar84.github.io/ReplicaCoinBase/
+https://kaesar84.github.io/ProyectoGeeks/
